@@ -28,8 +28,8 @@ $(document).ready(function() {
         venueSearch: "https://api.foursquare.com/v2/venues/search?",
         lat : "41.399856",
         lng : "2.158286999999973",
-        clientId: "client_id=XVODQ5S2KJJ0BORRXJLTGKOIFMYOLCW0YHABIFKFQPQTINRU",
-        clientSecret: "client_secret=FI1YNOKL5YPEMOK3ITQS5U3DRBWWJNMIWMO05WJVTAATUOF2",
+        clientId: "client_id=CLIENTID",
+        clientSecret: "client_secret=CLIENTSECRET",
         radius: "radius=100",
     }
     var categories = {
